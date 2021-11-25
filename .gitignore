@@ -1,0 +1,9 @@
+*.pyc
+*.csv
+*.txt
+__pycache__
+.spyproject
+.sav
+SignalDataZip.zip
+*.zip
+SignalData/
